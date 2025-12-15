@@ -22,6 +22,9 @@ namespace WebProjesi1.Controllers
         {
             return View();
         }
+        // Initial commit1
+        // Initial commit2
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
